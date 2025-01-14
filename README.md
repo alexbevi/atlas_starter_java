@@ -36,7 +36,7 @@ git clone git@github.com:mongodb-university/atlas_starter_java.git
 ```
 
 Or you can download a ZIP archive using your browser
-[from GitHub](https://github.com/mongodb-university/atlas_starter_dotnet/archive/master.zip).
+[from GitHub](https://github.com/mongodb-university/atlas_starter_java/archive/master.zip).
 If you download this project as a ZIP archive,
 [unzip the archive](https://www.wikihow.com/Unzip-a-File) before proceeding.
 
